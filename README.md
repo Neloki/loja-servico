@@ -21,4 +21,4 @@ Erro 404 corrigido, alterar em applicationContext.xml:
 
 ------------------------
 
-O projeto esta funcionando, mas nao esta gravando o pedido final, quando eu finalizo o pedido, era pra gravar no banco, mas nao ta gravando.
+O projeto esta funcionando, mas nao esta gravando o pedido final, quando eu finalizo o pedido, era pra gravar no banco, mas nao ta gravando. Outro probleminha são as imagens que nao estao aparecendo, nem dos produtos nem da logo.
