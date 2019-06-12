@@ -21,4 +21,4 @@ Erro 404 corrigido, alterar em applicationContext.xml:
 
 ------------------------
 
-Problema novo: conseguir adicionar os produtos no carrinho para depois ir para a pagina de autenticaçao.
+O projeto esta funcionando, mas nao esta gravando o pedido final, quando eu finalizo o pedido, era pra gravar no banco, mas nao ta gravando.
