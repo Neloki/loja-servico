@@ -1,0 +1,12 @@
+CREATE TABLE servico (
+	ser_id serial NOT NULL,
+	ser_nome varchar(40),
+	ser_descricao varchar(40),
+	ser_und varchar(20),
+	ser_valor float,
+	CONSTRAINT servico_pkey PRIMARY KEY (ser_id)
+);
+
+alter table servico add column ser_qtd bigint;
+
+alter table servico add column ser_imagem character varying(400);
